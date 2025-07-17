@@ -3,6 +3,7 @@
 *Авторы:*
 - *Evgeny Turov (telegram: @ProtonEvgeny)*
 - *Daniel (telegram: @Walk_m_a_n)*
+- *Sonya (telegram: @eshkerequeen)*
 
 ## Введение
 
